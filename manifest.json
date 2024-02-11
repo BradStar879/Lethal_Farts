@@ -1,7 +1,7 @@
 {
   "name": "LethalFarts",
   "version_number": "1.0.0",
-  "website_url": "",
+  "website_url": "https://github.com/BradStar879/Lethal_Farts",
   "description": "Adds some farty goodness to your games!",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
